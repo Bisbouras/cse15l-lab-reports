@@ -22,6 +22,7 @@ This is the format given, and the \n is for the purpose of ensuring each message
 Part 2:
 
 C:\Users\Admin/.ssh/id_rsa. is the absolute path to the private key for the SSH key for logging into ieng6.
+
 C:\Users\Admin/.ssh/id_rsa.pub. is the absolute path to the public key for the SSH key for logging into ieng6.
 
 Screenshot of logging into my ieng6 account without using password:
