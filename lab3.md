@@ -29,3 +29,6 @@ Screenshot of logging into my ieng6 account without using password:
 
 ![Image](login.PNG)
 
+Part 3.
+
+In lab 3, I learnt how to apply what I had learnt about creating web servers under a time constraint, and how to do it efficiently. For lab report 3, I learnt how to actually edit the code for the server itself, as I used the code from NumberServer as a basis and edited it to create ChatServer.  
