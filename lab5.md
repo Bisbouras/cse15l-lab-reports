@@ -31,6 +31,10 @@ assertArrayEquals(new int[]{ 3 }, input1);
 
 Here are the outputs of running these two test:
 
-Test 1:
+Test 1 (pass):
+
+![Image](image2.png)
+
+Test 2 (fail):
 
 ![Image](image.png)
