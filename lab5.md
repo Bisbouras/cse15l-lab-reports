@@ -101,3 +101,21 @@ Example 1:
 ```
 find ./technical -name "pmed.0020281.txt"
 ```
+
+Output:
+
+```
+./technical/plos/pmed.0020281.txt
+```
+
+Example 2:
+
+```
+find ./technical/ -name "plos"
+```
+
+Output:
+
+```
+./technical/plos
+```
