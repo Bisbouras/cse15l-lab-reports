@@ -1,4 +1,4 @@
-[b]Week 5 - Lab Report 3.
+Week 5 - Lab Report 3.
 
 Part 1 - Bugs.
 
