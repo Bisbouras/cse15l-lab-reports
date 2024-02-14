@@ -56,7 +56,7 @@ The original method simply doesn't work, and instead replaces every element of t
 Part 2 - Researching Commands.
 
 I will be chosing the find command. The source I used is this:
-[https://man7.org/linux/man-pages/man1/find.1.html](url)
+<a href="https://man7.org/linux/man-pages/man1/find.1.html">man7</a>
 
 COMMAND-LINE OPTION 1:
 
