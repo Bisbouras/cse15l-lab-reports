@@ -33,7 +33,7 @@ Here are the outputs of running these two test:
 
 Test 1 (pass):
 
-![Image](image2.png)
+![Image](image2.PNG)
 
 Test 2 (fail):
 
