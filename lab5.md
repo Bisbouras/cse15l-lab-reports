@@ -6,9 +6,9 @@ The bug I chose from week 4's lab is the one that existed in the reverseInPlace 
 
 First of all, here is the code for this method, as given, including the bug:
 
-''''
+```
 static void reverseInPlace(int[] arr) {
     for(int i = 0; i < arr.length; i += 1) {
       arr[i] = arr[arr.length - i - 1];
     }
-''''
+```
