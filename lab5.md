@@ -51,4 +51,9 @@ static void reverseInPlace(int[] arr) {
 }
 ```
 
+The original method simply doesn't work, and instead replaces every element of the array with the value of it's last element, because the as the loop progresses, it overwrites the same values. The new one essentially uses a similar technique, but only iterates up to half the array, and swaps the elements from the beginning to the end.
 
+Part 2 - Researching Commands.
+
+I will be chosing the find command. The source I used is this:
+[https://man7.org/linux/man-pages/man1/find.1.html](url)
