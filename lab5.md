@@ -12,3 +12,23 @@ static void reverseInPlace(int[] arr) {
       arr[i] = arr[arr.length - i - 1];
     }
 ```
+
+Here is a failure inducing test:
+
+```
+int[] input2 = {4, 2};
+ArrayExamples.reverseInPlace(input2);
+assertArrayEquals(new int[]{ 2, 4 }, input2);
+```
+
+Here is a non-failure inducing test:
+
+```
+int[] input1 = { 3 };
+ArrayExamples.reverseInPlace(input1);
+assertArrayEquals(new int[]{ 3 }, input1);
+```
+
+Here are the outputs of running these two test:
+
+Test 1:
