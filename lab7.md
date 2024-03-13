@@ -39,4 +39,4 @@ First, use vim to open the editor for the ListExamples file.
 
 Then, press s to be able to edit the file, click on the line to edit (index1 += 1;), use left arrow to go to where it says 1, backspace and change it to two, then click on the line (result.add(0, s);), left arrow behind the s, backspace 3 times.
 
-![Image](lab33.PNG)
+![Image](lab34.PNG)
