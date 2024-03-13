@@ -24,7 +24,7 @@ test.sh Bash script to test the file using JUnit
 
 The code pre bug fix:
 
-import java.util.ArrayList;
+```import java.util.ArrayList;
 import java.util.List;
 
 class ListExamples {
@@ -50,4 +50,4 @@ class ListExamples {
         }
         return result;
     }
-}
+}```
