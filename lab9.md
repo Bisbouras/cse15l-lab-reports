@@ -15,11 +15,13 @@ Student Response: It seems to have been a small typo, I was updating index1 inst
 File and directory structure: 
 
 cenotiadis@ieng6.ucsd.edu
--
+
 lab7 directory
--
+
 ListExamples.java: Java file containing the merge method.
+
 ListExamplesTest.java file that contains the tests.
+
 test.sh Bash script to test the file using JUnit
 
 The code pre bug fix:
