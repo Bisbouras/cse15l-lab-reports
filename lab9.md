@@ -30,7 +30,7 @@ test.sh Bash script to test the file using JUnit
 
 The code pre bug fix:
 
-```import java.util.ArrayList;
+``` import java.util.ArrayList;
 import java.util.List;
 
 interface StringChecker { boolean checkString(String s); }
