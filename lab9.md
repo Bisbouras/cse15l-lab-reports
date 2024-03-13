@@ -12,17 +12,21 @@ Hi, there seems to be an issue with how you are handling the merging of the sort
 
 Student Response: It seems to have been a small typo, I was updating index1 instead of index2 by mistake, I have fixed it, thank you very much!
 
+
+
+
 File and directory structure: 
 
-cenotiadis@ieng6.ucsd.edu
-
-lab7 directory
+cenotiadis@ieng6.ucsd.edu/lab7
 
 ListExamples.java: Java file containing the merge method.
 
 ListExamplesTest.java file that contains the tests.
 
 test.sh Bash script to test the file using JUnit
+
+
+
 
 The code pre bug fix:
 
@@ -77,11 +81,17 @@ class ListExamples {
 
 }```
 
+
+
+
 command line:
 
 bash test.sh ListExamplesTest.java
 
 shows the failing test cases.
+
+
+
 
 In order to fix the bug, you must change where it says index1 in the 4th to last line to index2. It is a simple typo. Additionally, you must change the line that says ```result.add(0, s);``` to be ```result.add(s);```
 
