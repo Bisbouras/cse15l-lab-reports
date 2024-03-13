@@ -15,3 +15,13 @@ git ```<space>``` clone ```<space> <right click>```
 
 (cloning my fork of the lab 7 github repository (right click = paste, link was copied to clipboard)
 ![Image](lab32.PNG)
+
+Step 6:
+
+Key presses:
+
+bash ```<space>``` test.sh ```<space>``` ListExamplesT ```<tab>``` java
+
+Running the tester bash file with the ListExamplesTest.java file to show that the tests are indeed failing.
+
+![Image](lab33.PNG)
