@@ -25,3 +25,9 @@ bash ```<space>``` test.sh ```<space>``` ListExamplesT ```<tab>``` java
 Running the tester bash file with the ListExamplesTest.java file to show that the tests are indeed failing.
 
 ![Image](lab33.PNG)
+
+Step 7:
+
+vim ```<space>``` Li ```<tab> <space>``` .java
+
+s ```<left click> <left arrow><left arrow><left arrow><left arrow><left arrow><left arrow><backspace>``` 2 ```<left click> <left arrow> <left arrow> <left arrow> <backspace> <backspace> <backspace> <escape> <colon< ``` w q
