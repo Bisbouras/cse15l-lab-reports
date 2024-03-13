@@ -51,3 +51,19 @@ The bash command to run the tester was already in the history, so going up twice
 
 ![Image](lab35.PNG)
 
+Step 9:
+
+Key presses:
+
+git ```<space>``` add ```<space>``` . ```<enter>```
+
+git ```<space>``` commit ```<space>``` -m ```<space>``` "dub" ```<enter>```
+
+git ```<space>``` push ```<space>``` origin ```<space>``` main ```<space> <enter>```
+
+First we add all the changes to the commit, using . to select all changes. Then we commit the changes with a message, and push them to the repository.
+
+![Image](lab46.PNG)
+
+
+
